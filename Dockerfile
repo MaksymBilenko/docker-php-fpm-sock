@@ -1,4 +1,4 @@
-FROM php:fpm
+FROM php:5.4-fpm
 
 MAINTAINER Maksym Bilenko "sath891@gmail.com"
 
